@@ -130,6 +130,16 @@ Contains reusable audio feature extraction functionality separated from the note
 
 Contains automated tests for the reusable Python code.
 
+## Running the Project
+
+1. Clone this repository.
+2. Download the ESC-50 dataset.
+3. Place the `ESC-50-master` folder inside the project directory.
+4. Install the required Python packages.
+5. Open `audio-classification-clean.ipynb` and run the notebook.
+
+`Unknown.wav` is included in the repository as an example audio file used for the initial audio analysis.
+
 ## Technologies
 
 - Python
