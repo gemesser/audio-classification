@@ -156,4 +156,4 @@ Contains automated tests for the reusable Python code.
 
 The repository contains a cleaned experimental notebook, reusable audio feature extraction code and an automated unit test for MFCC feature extraction.
 
-The project is being developed further to explore additional classifiers, larger datasets, more robust evaluation methods and expanded automated testing.
+The project is being developed further to explore additional classifiers, larger datasets, more robust evaluation methods and expanded automated testing. Investigate and compare different machine learning approaches to environmental audio classification. Planned work includes implementing neural networks and evaluating additional classification models against the existing k-nearest neighbours (k-NN) approach, comparing their accuracy, performance and generalisation.
